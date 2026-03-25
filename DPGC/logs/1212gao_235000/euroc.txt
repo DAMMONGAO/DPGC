@@ -1,0 +1,118 @@
+MH_01_easy [0.058719832975878385, 0.08805658810908314, 0.0937124526196769, 0.11585698974012354, 0.12324501352210232]
+MH_02_easy [0.023732695493215574, 0.03375129953642671, 0.03582982709806398, 0.04976448862403455, 0.06253152299843753]
+MH_03_medium [0.15349380982233254, 0.1572459966885316, 0.15944687515403747, 0.16737703331120898, 0.17959831093652062]
+MH_04_difficult [0.08812356413931133, 0.1181947065012724, 0.12109197747263303, 0.1498614503543484, 0.1840095960339575]
+MH_05_difficult [0.1643777632785807, 0.1706400729323711, 0.19352654099411637, 0.2211951952386484, 0.32087729949693655]
+V1_01_easy [0.049002566113996136, 0.053012671890248705, 0.054984477498429066, 0.059415948476972215, 0.06483595067111114]
+V1_02_medium [0.10073519333542362, 0.12353610173294534, 0.1356739425996975, 0.1504475737978373, 0.5716188874405411]
+V1_03_difficult [0.0735487921734365, 0.0745223795243902, 0.07885875043442565, 0.2800186929027366, 1.0528678961706228]
+V2_01_easy [0.05685980764454505, 0.07423612548823441, 0.07640288090268872, 0.09769011727348291, 0.1024969238389988]
+V2_02_medium [0.061638453147974025, 0.06544696957738413, 0.06849547603261238, 0.06853425376261242, 0.07209752369280172]
+V2_03_difficult [0.09328197108688725, 0.1683356142095813, 0.28759204354992396, 0.5607687526671413, 0.839080945522198]
+
+MH_01_easy: 0.095506
+MH_02_easy: 0.040922
+MH_03_medium: 0.161632
+MH_04_difficult: 0.132236
+MH_05_difficult: 0.214123
+V1_01_easy: 0.056230
+V1_02_medium: 0.216214
+V1_03_difficult: 0.293761
+V2_01_easy: 0.081637
+V2_02_medium: 0.067223
+V2_03_difficult: 0.397812
+
+Overall average: 0.167868
+
+
+Scene: MH_01_easy, Trial: 1, ATE Score: 0.103, Total Time: 204.339 seconds, Frame Count: 1841
+Scene: MH_01_easy, Trial: 2, ATE Score: 0.056, Total Time: 199.341 seconds, Frame Count: 1841
+Scene: MH_01_easy, Trial: 3, ATE Score: 0.099, Total Time: 191.225 seconds, Frame Count: 1841
+Scene: MH_01_easy, Trial: 4, ATE Score: 0.163, Total Time: 159.559 seconds, Frame Count: 1841
+Scene: MH_01_easy, Trial: 5, ATE Score: 0.090, Total Time: 161.134 seconds, Frame Count: 1841
+MH_01_easy [0.05618988725756721, 0.08997882612845101, 0.09940876759476462, 0.1031411862854625, 0.16262498010458912]
+Scene: MH_02_easy, Trial: 1, ATE Score: 0.034, Total Time: 133.100 seconds, Frame Count: 1520
+Scene: MH_02_easy, Trial: 2, ATE Score: 0.083, Total Time: 128.827 seconds, Frame Count: 1520
+Scene: MH_02_easy, Trial: 3, ATE Score: 0.053, Total Time: 133.362 seconds, Frame Count: 1520
+Scene: MH_02_easy, Trial: 4, ATE Score: 0.055, Total Time: 130.812 seconds, Frame Count: 1520
+Scene: MH_02_easy, Trial: 5, ATE Score: 0.047, Total Time: 131.113 seconds, Frame Count: 1520
+MH_02_easy [0.03411500469077782, 0.04682668782484633, 0.052711883960684526, 0.05496672793184504, 0.08277429824228175]
+Scene: MH_03_medium, Trial: 1, ATE Score: 0.197, Total Time: 112.743 seconds, Frame Count: 1350
+Scene: MH_03_medium, Trial: 2, ATE Score: 0.222, Total Time: 112.778 seconds, Frame Count: 1350
+Scene: MH_03_medium, Trial: 3, ATE Score: 0.205, Total Time: 114.151 seconds, Frame Count: 1350
+Scene: MH_03_medium, Trial: 4, ATE Score: 0.130, Total Time: 113.708 seconds, Frame Count: 1350
+Scene: MH_03_medium, Trial: 5, ATE Score: 0.165, Total Time: 116.470 seconds, Frame Count: 1350
+MH_03_medium [0.1301003481995027, 0.1650775433463369, 0.19736968213292774, 0.2048303271199337, 0.22184523770651812]
+Scene: MH_04_difficult, Trial: 1, ATE Score: 0.149, Total Time: 87.886 seconds, Frame Count: 1017
+Scene: MH_04_difficult, Trial: 2, ATE Score: 0.205, Total Time: 85.393 seconds, Frame Count: 1017
+Scene: MH_04_difficult, Trial: 3, ATE Score: 0.173, Total Time: 88.289 seconds, Frame Count: 1017
+Scene: MH_04_difficult, Trial: 4, ATE Score: 0.149, Total Time: 87.519 seconds, Frame Count: 1017
+Scene: MH_04_difficult, Trial: 5, ATE Score: 0.294, Total Time: 87.135 seconds, Frame Count: 1017
+MH_04_difficult [0.1487120462379538, 0.14915427799694253, 0.17272496054274805, 0.2053277083063194, 0.2935288523545159]
+Scene: MH_05_difficult, Trial: 1, ATE Score: 0.138, Total Time: 100.054 seconds, Frame Count: 1137
+Scene: MH_05_difficult, Trial: 2, ATE Score: 0.212, Total Time: 97.714 seconds, Frame Count: 1137
+Scene: MH_05_difficult, Trial: 3, ATE Score: 0.170, Total Time: 96.548 seconds, Frame Count: 1137
+Scene: MH_05_difficult, Trial: 4, ATE Score: 0.136, Total Time: 92.522 seconds, Frame Count: 1137
+Scene: MH_05_difficult, Trial: 5, ATE Score: 0.160, Total Time: 65.067 seconds, Frame Count: 1137
+MH_05_difficult [0.13571291016386697, 0.13756221920924128, 0.15999962286547892, 0.170404854061054, 0.21200435384220498]
+Scene: V1_01_easy, Trial: 1, ATE Score: 0.138, Total Time: 88.134 seconds, Frame Count: 1456
+Scene: V1_01_easy, Trial: 2, ATE Score: 0.064, Total Time: 85.918 seconds, Frame Count: 1456
+Scene: V1_01_easy, Trial: 3, ATE Score: 0.136, Total Time: 83.527 seconds, Frame Count: 1456
+Scene: V1_01_easy, Trial: 4, ATE Score: 0.134, Total Time: 83.162 seconds, Frame Count: 1456
+Scene: V1_01_easy, Trial: 5, ATE Score: 0.052, Total Time: 81.652 seconds, Frame Count: 1456
+V1_01_easy [0.051927320671369105, 0.06389107992850886, 0.1341611469976009, 0.13569393509132177, 0.13796782946663141]
+Scene: V1_02_medium, Trial: 1, ATE Score: 0.150, Total Time: 48.890 seconds, Frame Count: 855
+Scene: V1_02_medium, Trial: 2, ATE Score: 0.311, Total Time: 45.032 seconds, Frame Count: 855
+Scene: V1_02_medium, Trial: 3, ATE Score: 0.211, Total Time: 29.711 seconds, Frame Count: 855
+Scene: V1_02_medium, Trial: 4, ATE Score: 0.336, Total Time: 31.723 seconds, Frame Count: 855
+Scene: V1_02_medium, Trial: 5, ATE Score: 0.175, Total Time: 30.674 seconds, Frame Count: 855
+V1_02_medium [0.15014135937875656, 0.17525917517457917, 0.2112019292861641, 0.3110260469504845, 0.33586109356193367]
+Scene: V1_03_difficult, Trial: 1, ATE Score: 0.090, Total Time: 37.797 seconds, Frame Count: 1075
+Scene: V1_03_difficult, Trial: 2, ATE Score: 0.593, Total Time: 37.979 seconds, Frame Count: 1075
+Scene: V1_03_difficult, Trial: 3, ATE Score: 0.082, Total Time: 37.872 seconds, Frame Count: 1075
+Scene: V1_03_difficult, Trial: 4, ATE Score: 0.111, Total Time: 38.057 seconds, Frame Count: 1075
+Scene: V1_03_difficult, Trial: 5, ATE Score: 0.080, Total Time: 37.984 seconds, Frame Count: 1075
+V1_03_difficult [0.08013273167464505, 0.08187197946218662, 0.0898706850440787, 0.11106937604079788, 0.5928612298306746]
+Scene: V2_01_easy, Trial: 1, ATE Score: 0.076, Total Time: 38.062 seconds, Frame Count: 1140
+Scene: V2_01_easy, Trial: 2, ATE Score: 0.112, Total Time: 37.930 seconds, Frame Count: 1140
+Scene: V2_01_easy, Trial: 3, ATE Score: 0.161, Total Time: 38.006 seconds, Frame Count: 1140
+Scene: V2_01_easy, Trial: 4, ATE Score: 0.115, Total Time: 38.188 seconds, Frame Count: 1140
+Scene: V2_01_easy, Trial: 5, ATE Score: 0.063, Total Time: 37.743 seconds, Frame Count: 1140
+V2_01_easy [0.06267128310590594, 0.07584730125389529, 0.11156560239113764, 0.11475091259246833, 0.16068704536421144]
+Scene: V2_02_medium, Trial: 1, ATE Score: 0.071, Total Time: 40.913 seconds, Frame Count: 1174
+Scene: V2_02_medium, Trial: 2, ATE Score: 0.080, Total Time: 41.858 seconds, Frame Count: 1174
+Scene: V2_02_medium, Trial: 3, ATE Score: 0.064, Total Time: 41.182 seconds, Frame Count: 1174
+Scene: V2_02_medium, Trial: 4, ATE Score: 0.048, Total Time: 41.758 seconds, Frame Count: 1174
+Scene: V2_02_medium, Trial: 5, ATE Score: 0.076, Total Time: 41.708 seconds, Frame Count: 1174
+V2_02_medium [0.047672659386739695, 0.06418443338247495, 0.07064522249583247, 0.07619713248291925, 0.08042677161868021]
+Scene: V2_03_difficult, Trial: 1, ATE Score: 0.634, Total Time: 33.758 seconds, Frame Count: 961
+Scene: V2_03_difficult, Trial: 2, ATE Score: 0.722, Total Time: 33.952 seconds, Frame Count: 961
+Scene: V2_03_difficult, Trial: 3, ATE Score: 1.000, Total Time: 33.770 seconds, Frame Count: 961
+Scene: V2_03_difficult, Trial: 4, ATE Score: 0.940, Total Time: 34.006 seconds, Frame Count: 961
+Scene: V2_03_difficult, Trial: 5, ATE Score: 0.811, Total Time: 34.159 seconds, Frame Count: 961
+V2_03_difficult [0.634390769434567, 0.7221177165219024, 0.8114387612228123, 0.9395327403783915, 0.9998935974364551]
+MH_01_easy 0.09940876759476462
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp"
+    },
+    "python.testing.pytestArgs": [
+        "dpvo"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

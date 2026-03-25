@@ -1,0 +1,66 @@
+Scene: MH_01_easy, Trial: 1, ATE Score: 0.106, Total Time: 525.242 seconds, Frame Count: 1841
+Scene: MH_01_easy, Trial: 2, ATE Score: 0.078, Total Time: 521.705 seconds, Frame Count: 1841
+Scene: MH_01_easy, Trial: 3, ATE Score: 0.103, Total Time: 518.980 seconds, Frame Count: 1841
+Scene: MH_01_easy, Trial: 4, ATE Score: 0.094, Total Time: 523.493 seconds, Frame Count: 1841
+Scene: MH_01_easy, Trial: 5, ATE Score: 0.086, Total Time: 523.584 seconds, Frame Count: 1841
+MH_01_easy [0.07775554609776647, 0.08560401839517094, 0.09383806060615738, 0.10255657500899097, 0.10647572775759569]
+Scene: MH_02_easy, Trial: 1, ATE Score: 0.047, Total Time: 433.827 seconds, Frame Count: 1520
+Scene: MH_02_easy, Trial: 2, ATE Score: 0.054, Total Time: 422.855 seconds, Frame Count: 1520
+Scene: MH_02_easy, Trial: 3, ATE Score: 0.054, Total Time: 427.587 seconds, Frame Count: 1520
+Scene: MH_02_easy, Trial: 4, ATE Score: 0.049, Total Time: 471.400 seconds, Frame Count: 1520
+Scene: MH_02_easy, Trial: 5, ATE Score: 0.055, Total Time: 678.986 seconds, Frame Count: 1520
+MH_02_easy [0.04719858224109365, 0.049187102986491545, 0.053932638218876595, 0.05394319467312024, 0.05467947465454557]
+Scene: MH_03_medium, Trial: 1, ATE Score: 0.168, Total Time: 550.618 seconds, Frame Count: 1350
+Scene: MH_03_medium, Trial: 2, ATE Score: 0.193, Total Time: 394.663 seconds, Frame Count: 1350
+Scene: MH_03_medium, Trial: 3, ATE Score: 0.176, Total Time: 396.161 seconds, Frame Count: 1350
+Scene: MH_03_medium, Trial: 4, ATE Score: 0.130, Total Time: 393.612 seconds, Frame Count: 1350
+Scene: MH_03_medium, Trial: 5, ATE Score: 0.159, Total Time: 391.962 seconds, Frame Count: 1350
+MH_03_medium [0.1304776525215246, 0.159118005491796, 0.16837950182644565, 0.17587715850520258, 0.19250511274366464]
+Scene: MH_04_difficult, Trial: 1, ATE Score: 0.131, Total Time: 275.559 seconds, Frame Count: 1017
+Scene: MH_04_difficult, Trial: 2, ATE Score: 0.122, Total Time: 275.322 seconds, Frame Count: 1017
+Scene: MH_04_difficult, Trial: 3, ATE Score: 0.137, Total Time: 278.963 seconds, Frame Count: 1017
+Scene: MH_04_difficult, Trial: 4, ATE Score: 0.124, Total Time: 282.255 seconds, Frame Count: 1017
+Scene: MH_04_difficult, Trial: 5, ATE Score: 0.130, Total Time: 284.769 seconds, Frame Count: 1017
+MH_04_difficult [0.12208084283679782, 0.12382751542381974, 0.130393447144973, 0.1310765629557679, 0.1368533988470746]
+Scene: MH_05_difficult, Trial: 1, ATE Score: 0.158, Total Time: 321.644 seconds, Frame Count: 1137
+Scene: MH_05_difficult, Trial: 2, ATE Score: 0.088, Total Time: 310.969 seconds, Frame Count: 1137
+Scene: MH_05_difficult, Trial: 3, ATE Score: 0.140, Total Time: 307.889 seconds, Frame Count: 1137
+Scene: MH_05_difficult, Trial: 4, ATE Score: 0.159, Total Time: 307.499 seconds, Frame Count: 1137
+Scene: MH_05_difficult, Trial: 5, ATE Score: 0.141, Total Time: 316.608 seconds, Frame Count: 1137
+MH_05_difficult [0.08773304277345309, 0.13966947135714475, 0.1410057330833852, 0.15798191500991232, 0.15853626240799404]
+Scene: V1_01_easy, Trial: 1, ATE Score: 0.059, Total Time: 387.254 seconds, Frame Count: 1456
+Scene: V1_01_easy, Trial: 2, ATE Score: 0.057, Total Time: 387.251 seconds, Frame Count: 1456
+Scene: V1_01_easy, Trial: 3, ATE Score: 0.081, Total Time: 385.569 seconds, Frame Count: 1456
+Scene: V1_01_easy, Trial: 4, ATE Score: 0.119, Total Time: 389.588 seconds, Frame Count: 1456
+Scene: V1_01_easy, Trial: 5, ATE Score: 0.055, Total Time: 326.651 seconds, Frame Count: 1456
+V1_01_easy [0.05461537184603324, 0.05687360791582004, 0.05900808412924393, 0.080674326689302, 0.11944693113169688]
+Scene: V1_02_medium, Trial: 1, ATE Score: 0.170, Total Time: 163.122 seconds, Frame Count: 855
+Scene: V1_02_medium, Trial: 2, ATE Score: 0.173, Total Time: 166.473 seconds, Frame Count: 855
+Scene: V1_02_medium, Trial: 3, ATE Score: 0.166, Total Time: 162.095 seconds, Frame Count: 855
+Scene: V1_02_medium, Trial: 4, ATE Score: 0.198, Total Time: 159.181 seconds, Frame Count: 855
+Scene: V1_02_medium, Trial: 5, ATE Score: 0.175, Total Time: 160.997 seconds, Frame Count: 855
+V1_02_medium [0.1659851145329124, 0.1701170383828675, 0.1732735051825166, 0.1754401539434577, 0.1979854525278117]
+Scene: V1_03_difficult, Trial: 1, ATE Score: 0.140, Total Time: 199.326 seconds, Frame Count: 1075
+Scene: V1_03_difficult, Trial: 2, ATE Score: 0.108, Total Time: 199.962 seconds, Frame Count: 1075
+Scene: V1_03_difficult, Trial: 3, ATE Score: 0.754, Total Time: 199.659 seconds, Frame Count: 1075
+Scene: V1_03_difficult, Trial: 4, ATE Score: 0.673, Total Time: 245.976 seconds, Frame Count: 1075
+Scene: V1_03_difficult, Trial: 5, ATE Score: 0.657, Total Time: 244.535 seconds, Frame Count: 1075
+V1_03_difficult [0.10819882792192329, 0.13959765797592366, 0.6567505762194099, 0.6728386961808959, 0.7536172243683501]
+Scene: V2_01_easy, Trial: 1, ATE Score: 0.062, Total Time: 247.814 seconds, Frame Count: 1140
+Scene: V2_01_easy, Trial: 2, ATE Score: 0.087, Total Time: 245.828 seconds, Frame Count: 1140
+Scene: V2_01_easy, Trial: 3, ATE Score: 0.072, Total Time: 247.347 seconds, Frame Count: 1140
+Scene: V2_01_easy, Trial: 4, ATE Score: 0.073, Total Time: 242.866 seconds, Frame Count: 1140
+Scene: V2_01_easy, Trial: 5, ATE Score: 0.060, Total Time: 263.216 seconds, Frame Count: 1140
+V2_01_easy [0.060166741202441976, 0.061983578126411906, 0.07206914868020883, 0.07337482390938815, 0.08731189492674384]
+Scene: V2_02_medium, Trial: 1, ATE Score: 0.100, Total Time: 368.024 seconds, Frame Count: 1174
+Scene: V2_02_medium, Trial: 2, ATE Score: 0.080, Total Time: 367.515 seconds, Frame Count: 1174
+Scene: V2_02_medium, Trial: 3, ATE Score: 0.043, Total Time: 366.443 seconds, Frame Count: 1174
+Scene: V2_02_medium, Trial: 4, ATE Score: 0.090, Total Time: 364.473 seconds, Frame Count: 1174
+Scene: V2_02_medium, Trial: 5, ATE Score: 0.066, Total Time: 363.321 seconds, Frame Count: 1174
+V2_02_medium [0.042693888307550096, 0.06640096715402086, 0.07982981772634541, 0.09024269831351538, 0.10041506102334632]
+Scene: V2_03_difficult, Trial: 1, ATE Score: 0.636, Total Time: 296.111 seconds, Frame Count: 961
+Scene: V2_03_difficult, Trial: 2, ATE Score: 0.681, Total Time: 290.904 seconds, Frame Count: 961
+Scene: V2_03_difficult, Trial: 3, ATE Score: 0.998, Total Time: 298.929 seconds, Frame Count: 961
+Scene: V2_03_difficult, Trial: 4, ATE Score: 1.156, Total Time: 294.308 seconds, Frame Count: 961
+Scene: V2_03_difficult, Trial: 5, ATE Score: 1.168, Total Time: 300.664 seconds, Frame Count: 961
+V2_03_difficult [0.6356391947940698, 0.6810932411551681, 0.9982124838775066, 1.1564211812324214, 1.1677406666427417]

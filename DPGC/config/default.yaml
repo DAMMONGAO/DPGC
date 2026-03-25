@@ -1,0 +1,32 @@
+### DPVO Config File ###
+
+# VO config (increase for better accuracy)
+PATCHES_PER_FRAME: 96
+REMOVAL_WINDOW: 22
+OPTIMIZATION_WINDOW: 10
+PATCH_LIFETIME: 13
+
+# threshold for keyframe removal
+KEYFRAME_THRESH: 15.0
+
+# camera motion model
+MOTION_MODEL: 'DAMPED_LINEAR'
+MOTION_DAMPING: 0.5
+
+# maybe use mixed precision for inference
+MIXED_PRECISION: True
+
+CENTROID_SEL_STRAT: 'RANDOM'
+
+# CENTROID_SEL_STRAT: 'GRADIENT_BIAS'
+# CENTROID_SEL_STRAT: 'BLOCKRANDOM'
+
+# Loop closure and backend optimization
+# LOOP_CLOSURE: False
+# CLASSIC_LOOP_CLOSURE: False
+# BACKEND_THRESH: 64.0
+# LOOP_CLOSE_WINDOW_SIZE: 3
+# LOOP_RETR_THRESH: 0.04
+# GLOBAL_OPT_FREQ: 15
+# MAX_EDGE_AGE: 1000
+# BUFFER_SIZE: 4096

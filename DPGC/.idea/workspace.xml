@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41b29d2b-d52a-42ad-b126-711e76a711fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DBoW2" beforeDir="false" afterPath="$PROJECT_DIR$/DBoW2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/default.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/fast.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/fast.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/MH_01_easy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/MH_02_easy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/MH_03_medium.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/MH_04_difficult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/MH_05_difficult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/V1_01_easy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/V1_02_medium.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/V1_03_difficult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/V2_01_easy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/V2_02_medium.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/euroc_groundtruth/V2_03_difficult.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/blocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/blocks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/data_readers/tartan.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/data_readers/tartan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/dpvo.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/dpvo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/lietorch/groups.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/lietorch/groups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/patchgraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/patchgraph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/projective_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/projective_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/stream.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/stream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dpvo/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/dpvo/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate_euroc.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate_euroc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate_icl_nuim.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate_icl_nuim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate_kitti.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate_kitti.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate_tartan.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate_tartan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate_tum.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate_tum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/dpv_slam/euroc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/dpv_slam/euroc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/tartan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/tartan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2qIQkabpj4WUMZE9WpGaEhEwmhu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41b29d2b-d52a-42ad-b126-711e76a711fa" name="Changes" comment="" />
+      <created>1734347756834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734347756834</updated>
+      <workItem from="1734347758476" duration="142000" />
+    </task>
+    <servers />
+  </component>
+</project>
