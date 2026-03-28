@@ -80,12 +80,12 @@ Make sure you have run `./download_models_and_data.sh`. Your directory structure
 
 If single gpu, you can run:
 ```
-python train_single_gpu.py --steps=240000 --lr=0.00008 --name=<your name>
+CUDA_VISIBLE_DEVICES=xxx python train_single_gpu.py --steps=240000 --lr=0.00008 --name=<your name>
 ```
 
 If multi gpus, you can run:
 ```
-CUDA_VISIBLE_DEVICES=0,1 python train_single_gpu.py --steps=240000 --lr=0.00008 --name=<your name>
+CUDA_VISIBLE_DEVICES=xxx,yyy python train_single_gpu.py --steps=240000 --lr=0.00008 --name=<your name>
 ```
 
 ## Acknowledgements
