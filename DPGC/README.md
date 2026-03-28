@@ -1,13 +1,5 @@
 # DPGC 
-This repository contains the source code for our paper:
 
-
-
-```
-
-```
-```
-```
 ## Setup and Installation
 The code was tested on Ubuntu 20/22 and Cuda 11/12.</br>
 
