@@ -1,12 +1,6 @@
-# Deep Patch Visual Odometry/SLAM
-This repository contains the source code for our papers:
+# DPGC 
+This repository contains the source code for our paper:
 
-
-<a target="_blank" href="https://colab.research.google.com/drive/1VSFGNB7YCveqKF7XNz4RlV9EnfQA3fhQ?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a><a target="_blank" href="https://github.com/princeton-vl/DPVO_Docker">
-  <img src="https://img.shields.io/badge/Docker-grey?logo=Docker" alt="Open In Colab"/>
-</a>
 
 
 ```
