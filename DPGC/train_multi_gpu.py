@@ -239,11 +239,3 @@ if __name__ == '__main__':
     train(args)
 
 # export NCCL_P2P_LEVEL=NVL
-# CUDA_VISIBLE_DEVICES=1,2 torchrun --standalone --nproc_per_node=2 train_multi_gpu.py --steps=270000 --lr=0.00008 --name=dy
-# CUDA_VISIBLE_DEVICES=2,3,4,5 torchrun --standalone --nproc_per_node=4 train_multi_gpu.py --steps=240000 --lr=0.00008 --name=0311
-#CUDA_VISIBLE_DEVICES=6,7,8,9 torchrun --standalone --nproc_per_node=4 train_multi_gpu.py --steps=240000 --lr=0.00008 --name=forth
-#CUDA_VISIBLE_DEVICES=8,9 torchrun --standalone --nproc_per_node=1 train_multi_gpu.py --ckpt --steps=240000 --lr=0.00008 --name=forth 
-# 0.00000004
-# CUDA_VISIBLE_DEVICES=9 torchrun --standalone --nproc_per_node=1 train_multi_gpu.py --steps=240000 --lr=0.00008 --name=forth
-#CUDA_VISIBLE_DEVICES=2,3,4,5 torchrun --standalone --nproc_per_node=4 train_multi_gpu.py --ckpt '/home/ghb/DPVO/checkpoints/0311_065000.pth' --steps=2000 --lr=0.00004 --name=0405
-# CUDA_VISIBLE_DEVICES=6,9 torchrun --standalone --nproc_per_node=2 train_multi_gpu.py --ckpt '/home/ghb/DPVO/checkpoints/third_075000.pth' --steps=70000 --lr=0.00004 --name=
