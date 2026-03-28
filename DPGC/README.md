@@ -1,33 +1,18 @@
 # Deep Patch Visual Odometry/SLAM
 This repository contains the source code for our papers:
 
-[Deep Patch Visual Odometry](https://arxiv.org/pdf/2208.04726.pdf)<br/>
-Zachary Teed<sup>\*</sup>, Lahav Lipson<sup>\*</sup>, Jia Deng <sub></sub><br/>
-[Deep Patch Visual SLAM](http://arxiv.org/pdf/2408.01654)<br/>
-Lahav Lipson, Zachary Teed, Jia Deng<br/>
+
 <a target="_blank" href="https://colab.research.google.com/drive/1VSFGNB7YCveqKF7XNz4RlV9EnfQA3fhQ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><a target="_blank" href="https://github.com/princeton-vl/DPVO_Docker">
   <img src="https://img.shields.io/badge/Docker-grey?logo=Docker" alt="Open In Colab"/>
 </a>
 
-[<img src="https://i.imgur.com/6ZQPbR1.png?1" width="600">](https://www.youtube.com/watch?v=e5wanf71YFs)
 
 ```
-@article{teed2023deep,
-   title={Deep Patch Visual Odometry},
-   author={Teed, Zachary and Lipson, Lahav and Deng, Jia},
-   journal={Advances in Neural Information Processing Systems},
-   year={2023}
- }
+
 ```
 ```
-@inproceedings{lipson2024deep,
-    author={Lipson, Lahav and Teed, Zachary and Deng, Jia},
-    title={{Deep Patch Visual SLAM}},
-    booktitle={European Conference on Computer Vision},
-    year={2024}
-}
 ```
 ## Setup and Installation
 The code was tested on Ubuntu 20/22 and Cuda 11/12.</br>
