@@ -5,13 +5,13 @@ The code was tested on Ubuntu 20/22 and Cuda 11/12.</br>
 
 Clone the repo
 ```
-git clone https://github.com/princeton-vl/DPVO.git --recursive
-cd DPVO
+git clone https://github.com/princeton-vl/DPGC.git --recursive
+cd DPGC
 ```
-Create and activate the dpvo anaconda environment
+Create and activate the dpgc anaconda environment
 ```
 conda env create -f environment.yml
-conda activate dpvo
+conda activate dpgc
 ```
 
 Next install the DPVO package
@@ -25,7 +25,6 @@ pip install .
 # download models and data (~2GB)
 ./download_models_and_data.sh
 ```
-
 
 ### Recommended - Install the Pangolin Viewer
 Note: You will need to have CUDA 11 and CuDNN installed on your system.
@@ -45,33 +44,10 @@ cd ../..
 pip install ./DPViewer
 ```
 
-For installation issues, our [Docker Image](https://github.com/princeton-vl/DPVO_Docker) supports the visualizer.
-
-### Classical Backend (optional)
-
-We provide a classical backend for closing very large loops, which requires extra installation.
-
-Step 1. Install the OpenCV C++ API. On Ubuntu, you can use
-```bash
-sudo apt-get install -y libopencv-dev
-```
-Step 2. Install DBoW2
-```bash
-cd DBoW2
-mkdir -p build && cd build
-cmake .. # tested with cmake 3.22.1 and gcc/cc 11.4.0 on Ubuntu
-make # tested with GNU Make 4.3
-sudo make install
-cd ../..
-```
-
-Step 3. Install the image retrieval
-```bash
-pip install ./DPRetrieval
-```
+For installation issues, [Docker Image](https://github.com/princeton-vl/DPVO_Docker) supports the visualizer.
 
 ## Demos
-DPVO can be run on any video or image directory with a single command. Note you will need to have installed DPViewer to visualize the reconstructions in real-time. You can also save the completed reconstructions and view them in COLMAP. The pretrained models can be downloaded from google drive [models.zip](https://drive.google.com/file/d/1dRqftpImtHbbIPNBIseCv9EvrlHEnjhX/view?usp=sharing) if you have not already run the download script. 
+DPGC can be run on any video or image directory with a single command. Note you will need to have installed DPViewer to visualize the reconstructions in real-time. You can also save the completed reconstructions and view them in COLMAP. The pretrained models can be downloaded from google drive [models.zip](https://drive.google.com/file/d/1dRqftpImtHbbIPNBIseCv9EvrlHEnjhX/view?usp=sharing) if you have not already run the download script. 
 
 
 ```bash
