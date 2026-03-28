@@ -45,8 +45,8 @@ pip install ./DPViewer
 
 For installation issues, [Docker Image](https://github.com/princeton-vl/DPVO_Docker) supports the visualizer.
 
-The pretrained models can be downloaded from
-
+## Checkpoints
+The pretrained models can be downloaded from ###DPGC/checkpoints###
 
 ## Evaluation
 For example, we provide evaluation scripts for TartanAir and ICL-NUIM. Up to date result logs on these datasets can be found in the `logs` directory.
@@ -54,13 +54,15 @@ For example, we provide evaluation scripts for TartanAir and ICL-NUIM. Up to dat
 ### TartanAir:
 Results on the validation split and test set can be obtained with the command:
 ```
-python evaluate_tartan.py --trials=5 --split=validation --plot --save_trajectory
+python evaluate_tartan.py --trials=1 --split=validation --plot --save_trajectory 
 ```
+To verify stability, you can run this five times and take the median of the results.
 
 ### ICL-NUIM:
 ```
-python evaluate_icl_nuim.py --trials=5 --plot --save_trajectory
+python evaluate_icl_nuim.py --trials=1 --plot --save_trajectory
 ```
+To verify stability, you can run this five times and take the median of the results.
 
 ## Training
 Make sure you have run `./download_models_and_data.sh`. Your directory structure should look as follows
@@ -76,9 +78,14 @@ Make sure you have run `./download_models_and_data.sh`. Your directory structure
     ...
 ```
 
-To train (log files will be written to `runs/<your name>`). Model will be run on the validation split every 10k iterations
+If single gpu, you can run:
 ```
-python train.py --steps=240000 --lr=0.00008 --name=<your name>
+python train_single_gpu.py --steps=240000 --lr=0.00008 --name=<your name>
+```
+
+If multi gpus, you can run:
+```
+CUDA_VISIBLE_DEVICES=0,1 python train_single_gpu.py --steps=240000 --lr=0.00008 --name=<your name>
 ```
 
 ## Acknowledgements
