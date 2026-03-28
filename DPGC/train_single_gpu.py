@@ -185,5 +185,3 @@ if __name__ == '__main__':
 
     train(args)
     
-#CUDA_VISIBLE_DEVICES=6 python train_single_gpu.py --steps=50000 --ckpt '/home/ghb/DPVO/checkpoints/ori_single_gpu_190000.pth' --lr=0.000003 --name=ori_single_gpu
-##CUDA_VISIBLE_DEVICES=1 python train_single_gpu.py --steps=270000  --lr=0.00008 --name=0423
